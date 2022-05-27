@@ -33,4 +33,4 @@ pause
 plot(int2, lambda2);    %si rompe male perché non riesce a risolvere il sistema
 pause
 plot(int3, lambda3);    %oscilla perché non riesce a convergere a nessuno dei
-                        %due autovalori equispaziati grazie fede
+                        %due autovalori equispaziati
